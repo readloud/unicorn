@@ -1,5 +1,5 @@
-# UDP Unicorn 
-UDP Unicornis a Win32 UDP flooding/DoS (Denial of Service) utility with multithreading. Uses Winsock to create UDP sockets and flood a target.
+# UDP Unicorn Overview UDP Stress Tester 
+UDP Unicorn is a Win32 UDP flooding/DoS (Denial of Service) utility with multithreading. Uses Winsock to create UDP sockets and flood a target.
 I created this tool for system administrators and game developers to test their servers.
 
 # DISCLAIMER
